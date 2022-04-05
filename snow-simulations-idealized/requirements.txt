@@ -1,6 +1,0 @@
-xarray
-numpy
-
-snowScatt https://github.com/OPTIMICe-team/snowScatt
-
-ARM database https://www.arm.gov/data/data-sources/icepart-mod-120
