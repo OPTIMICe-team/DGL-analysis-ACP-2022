@@ -1,0 +1,3 @@
+[submodule "tripex_pol"]
+	path = tripex_pol
+	url = git@github.com:OPTIMICe-team/tripex_pol.git
